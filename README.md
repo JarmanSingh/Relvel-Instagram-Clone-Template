@@ -1,6 +1,11 @@
-## NODE JS Based Relvel assignment to build APIs for instagram clone backend
+## Relvel Instagram clone template to build backend
+
+# Install packages :
+```
+    npm install
+```
 
 # To start the App :
-```npm i
+```
     npm run dev
 ```
